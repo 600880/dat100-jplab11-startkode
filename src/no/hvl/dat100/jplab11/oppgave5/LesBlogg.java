@@ -22,7 +22,10 @@ public class LesBlogg {
 
 	public static Blogg les(String mappe, String filnavn) {
 
-		throw new UnsupportedOperationException(TODO.method());
+		// Ikke fullført...
+		
+		Blogg samling = new Blogg();
+		return samling;
 
 	}
 }
